@@ -19,14 +19,14 @@ Run the app:
     ```bash
     streamlit run app.py
 
-Dataset
+##Dataset
 The app uses the Salary_Data.csv dataset which contains:
 
 Years of Experience
 
 Salary
 
-Usage
+##Usage
 Open the app in your browser.
 
 Enter years of experience in the input box.
