@@ -19,24 +19,24 @@ Run the app:
     ```bash
     streamlit run app.py
 
-##Dataset
+## Dataset
 The app uses the Salary_Data.csv dataset which contains:
 
-Years of Experience
+- Years of Experience
 
-Salary
+- Salary
 
-##Usage
-Open the app in your browser.
+## Usage
+- Open the app in your browser.
 
-Enter years of experience in the input box.
+- Enter years of experience in the input box.
 
-See the predicted salary and the regression graph.
+- See the predicted salary and the regression graph.
 
-Deployment
+## Deployment
 You can deploy this app easily on Streamlit Cloud by connecting this GitHub repository.
 
-Author
+## Author
 Daksh Mulchandani
 
 Feel free to contribute or open issues!
