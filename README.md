@@ -36,6 +36,11 @@ The app uses the Salary_Data.csv dataset which contains:
 ## Deployment
 You can deploy this app easily on Streamlit Cloud by connecting this GitHub repository.
 
+## 🚀 Live Demo
+
+Try the app here 👉 [Salary Predictor App](https://salary-predictor-app-jexwvvrdkrro2faizebniq.streamlit.app/)
+
+
 ## Author
 Daksh Mulchandani
 
